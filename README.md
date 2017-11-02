@@ -1,5 +1,5 @@
 # MACHINE LEARNING ALGORITHMS 
-## FROM SCRATCH
+### FROM SCRATCH
 
 This repo contains my own implementations of popular machine learning algorithms, all in Python. 
 
